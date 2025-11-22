@@ -86,5 +86,5 @@ Our COLMAP loaders expect the following dataset structure in the source path loc
 
 ## 📮Contact
 
-Feel free to contact us at **2273860887@qq.com** for any questions or collaborations!
+Feel free to contact us at **akadjh@hdu.edu.cn** for any questions or collaborations!
 
