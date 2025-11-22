@@ -2,7 +2,7 @@
 
 This repo contains code for the paper "3D-UIR: OptiEndoGS:Decoupling Optical Degradation and Appearance Modulation for High-FidelityEndoscopic 3D Gaussian Reconstruction"
 
-![enter image description here](%22C:%5CUsers%5CLenovo%5CDesktop%5Cimage9.png%22)
+![enter image description here](picture/1.png)
 #  Installation
 
 Please clone our repository and change to that folder
