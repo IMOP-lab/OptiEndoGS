@@ -3,6 +3,24 @@
 This repo contains code for the paper "3D-UIR: OptiEndoGS:Decoupling Optical Degradation and Appearance Modulation for High-FidelityEndoscopic 3D Gaussian Reconstruction"
 
 ![enter image description here](picture/image9.png)
+
+Workflow overview of the proposed framework for optically consistent endoscopic digital twins.
+
+# Experimental Results
+ Qualitative Comparison
+
+ ![enter image description here](picture/2.png)
+
+ Qualitative evaluation on synthetic colonoscopy data from SimCol3D across eight test scenes (S1, S3, S8, O2, B3, B5, B7, B8). Representative frames are
+shown per scene, with columns corresponding to different methods, enabling visual comparison of texture fidelity, boundary sharpness, and appearance consistency
+
+# Quantitative Comparison
+
+ ![enter image description here](picture/1.png)
+
+ A quantitative evaluation of different methods is conducted on the SimCol3D, Hamlyn, and clinical human datasets. For real data, five scenes (Z1, Z4, Z5,
+R1, and R2) are selected. For synthetic data, scenes are grouped into the S, B, and O categories, and category-wise averages are computed and reported. 
+ 
 #  Installation
 
 Please clone our repository and change to that folder
