@@ -7,7 +7,7 @@ This repo contains code for the paper "3D-UIR: OptiEndoGS:Decoupling Optical Deg
 
 Please clone our repository and change to that folder
 ```python
-git clone https://imop-lab.github.io/OptiEndoGS
+git clone [https://imop-lab.github.io/OptiEndoGS](https://github.com/IMOP-lab/OptiEndoGS.git)
 cd OptiEndoGS
 ```
 Create a new python environment and install relevant requirements(Among them, the three libraries of diff-gaussian-rasterization, simple-knn and fused-ssim are downloaded from https://bilityniu.github.io/3D-UIR.)
